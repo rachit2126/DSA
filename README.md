@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rachit2126/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0075-sort-colors](https://github.com/rachit2126/DSA/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/rachit2126/DSA/tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/rachit2126/DSA/tree/master/0493-reverse-pairs) |
 | [3193-count-the-number-of-inversions](https://github.com/rachit2126/DSA/tree/master/3193-count-the-number-of-inversions) |
@@ -46,4 +47,12 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/rachit2126/DSA/tree/master/0493-reverse-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rachit2126/DSA/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rachit2126/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
