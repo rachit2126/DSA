@@ -38,6 +38,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rachit2126/DSA/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rachit2126/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3193-count-the-number-of-inversions](https://github.com/rachit2126/DSA/tree/master/3193-count-the-number-of-inversions) |
 ## Binary Indexed Tree
@@ -70,4 +71,12 @@
 | [0074-search-a-2d-matrix](https://github.com/rachit2126/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rachit2126/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/rachit2126/DSA/tree/master/1901-find-a-peak-element-ii) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/rachit2126/DSA/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/rachit2126/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
