@@ -14,6 +14,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/rachit2126/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/rachit2126/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rachit2126/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/rachit2126/DSA/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rachit2126/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/rachit2126/DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rachit2126/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -79,4 +80,9 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rachit2126/DSA/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/rachit2126/DSA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/rachit2126/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
