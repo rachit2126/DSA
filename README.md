@@ -13,6 +13,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rachit2126/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/rachit2126/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/rachit2126/DSA/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/rachit2126/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rachit2126/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rachit2126/DSA/tree/master/0078-subsets) |
@@ -82,6 +83,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/rachit2126/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/rachit2126/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/rachit2126/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/rachit2126/DSA/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
