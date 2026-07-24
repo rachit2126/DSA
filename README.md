@@ -17,6 +17,7 @@
 | [0074-search-a-2d-matrix](https://github.com/rachit2126/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rachit2126/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rachit2126/DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/rachit2126/DSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rachit2126/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/rachit2126/DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rachit2126/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -85,8 +86,10 @@
 | [0039-combination-sum](https://github.com/rachit2126/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rachit2126/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/rachit2126/DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/rachit2126/DSA/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/rachit2126/DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/rachit2126/DSA/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
