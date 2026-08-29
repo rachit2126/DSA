@@ -20,6 +20,7 @@
 | [0090-subsets-ii](https://github.com/rachit2126/DSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rachit2126/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rachit2126/DSA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/rachit2126/DSA/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/rachit2126/DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rachit2126/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/rachit2126/DSA/tree/master/0493-reverse-pairs) |
@@ -96,6 +97,7 @@
 | [0078-subsets](https://github.com/rachit2126/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rachit2126/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/rachit2126/DSA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/rachit2126/DSA/tree/master/0137-single-number-ii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/rachit2126/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Hash Table
 |  |
