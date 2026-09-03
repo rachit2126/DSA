@@ -8,6 +8,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/rachit2126/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rachit2126/DSA/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/rachit2126/DSA/tree/master/0029-divide-two-integers) |
 ## Array
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/rachit2126/DSA/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/rachit2126/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rachit2126/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/rachit2126/DSA/tree/master/0136-single-number) |
