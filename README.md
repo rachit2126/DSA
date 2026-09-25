@@ -26,6 +26,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/rachit2126/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/rachit2126/DSA/tree/master/0260-single-number-iii) |
 | [0493-reverse-pairs](https://github.com/rachit2126/DSA/tree/master/0493-reverse-pairs) |
+| [0860-lemonade-change](https://github.com/rachit2126/DSA/tree/master/0860-lemonade-change) |
 | [1901-find-a-peak-element-ii](https://github.com/rachit2126/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [3193-count-the-number-of-inversions](https://github.com/rachit2126/DSA/tree/master/3193-count-the-number-of-inversions) |
 ## Binary Search
@@ -107,4 +108,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rachit2126/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/rachit2126/DSA/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
