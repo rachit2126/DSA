@@ -9,6 +9,7 @@
 | [0007-reverse-integer](https://github.com/rachit2126/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rachit2126/DSA/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/rachit2126/DSA/tree/master/0029-divide-two-integers) |
+| [0268-missing-number](https://github.com/rachit2126/DSA/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0162-find-peak-element](https://github.com/rachit2126/DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rachit2126/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/rachit2126/DSA/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/rachit2126/DSA/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/rachit2126/DSA/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/rachit2126/DSA/tree/master/0493-reverse-pairs) |
 | [0860-lemonade-change](https://github.com/rachit2126/DSA/tree/master/0860-lemonade-change) |
@@ -38,6 +40,7 @@
 | [0074-search-a-2d-matrix](https://github.com/rachit2126/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/rachit2126/DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rachit2126/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/rachit2126/DSA/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/rachit2126/DSA/tree/master/0493-reverse-pairs) |
 | [1901-find-a-peak-element-ii](https://github.com/rachit2126/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
@@ -78,6 +81,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rachit2126/DSA/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/rachit2126/DSA/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/rachit2126/DSA/tree/master/0455-assign-cookies) |
 ## Matrix
 |  |
@@ -108,11 +112,13 @@
 | [0136-single-number](https://github.com/rachit2126/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rachit2126/DSA/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/rachit2126/DSA/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/rachit2126/DSA/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/rachit2126/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rachit2126/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0268-missing-number](https://github.com/rachit2126/DSA/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
